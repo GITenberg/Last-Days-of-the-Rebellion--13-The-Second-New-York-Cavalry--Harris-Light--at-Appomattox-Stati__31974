@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '35583'
     url: http://www.gutenberg.org/2009/agents/35583
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31974#Last-Days-of-the-Rebellion--13-The-Second-New-York-Cavalry--Harris-Light--at-Appomattox-Stati_
 gutenberg_issued: '2010-04-13'
 gutenberg_type: Text
 identifiers:
