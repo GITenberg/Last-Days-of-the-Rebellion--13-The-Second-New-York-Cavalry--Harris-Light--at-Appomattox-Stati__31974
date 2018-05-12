@@ -1,0 +1,30 @@
+_repo: Last-Days-of-the-Rebellion--13-The-Second-New-York-Cavalry--Harris-Light--at-Appomattox-Stati__31974
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Randol, Alanson M.
+    birthdate: 1837
+    deathdate: 1887
+    gutenberg_agent_id: '35583'
+    url: http://www.gutenberg.org/2009/agents/35583
+description: ''
+gutenberg_issued: '2010-04-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31974'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York (State) -- History -- Civil War, 1861-1865 -- Regimental histories'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Regimental histories'
+- !lcsh 'United States. Army. New York Cavalry Regiment, 2nd (1861-1865)'
+- !lcsh 'Appomattox Campaign, 1865'
+- !lcc 'E456'
+title: "Last Days of the Rebellion\r\nThe Second New York Cavalry (Harris' Light)\
+  \ at Appomattox Station and Appomattox Court House, April 8 and 9, 1865"
+url: http://www.gutenberg.org/ebooks/31974
